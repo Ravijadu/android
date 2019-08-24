@@ -1,5 +1,4 @@
 # android
 
 
-hello bhaiyo
-android sikhaunga aajao
+aajao bhaiyo aap sabhi ko new game sikhaunga
